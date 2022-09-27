@@ -7,3 +7,4 @@
 git checkout -b (nome da branch)
 git add .
 git commit -m "(mensagem de identificação)"
+git push origin (nome da branch)

@@ -6,3 +6,4 @@
 
 git checkout -b (nome da branch)
 git add .
+git commit -m "(mensagem de identificação)"

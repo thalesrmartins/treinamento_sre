@@ -5,3 +5,4 @@
 ## criando branch
 
 git checkout -b (nome da branch)
+git add .

@@ -10,3 +10,6 @@
 4 - git push origin (nome da branch)  
 5 - você pode fazer os três comandos em uma linha, usando &&  
 6 - finalizando o dia 26/09  
+
+# Pergunta 1  
+1 - O que é virtualização?

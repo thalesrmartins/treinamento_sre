@@ -12,4 +12,5 @@
 6 - finalizando o dia 26/09  
 
 # Pergunta 1  
-1 - O que é virtualização?
+1 - O que é virtualização?  
+Resposta: Em computação, virtualização é o ato de criar uma versão virtual de algo, incluindo a simulação de uma plataforma de hardware, sistema operacional, dispositivo de armazenamento ou recursos de rede.  

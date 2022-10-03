@@ -11,7 +11,9 @@
 5 - você pode fazer os três comandos em uma linha, usando &&  
 6 - finalizando o dia 26/09  
 
-## NOVO REQUISITO: INSERIR FONTES APÓS RESPOSTAS  
+## NOVO REQUISITO: INSERIR FONTES APÓS RESPOSTAS
+# VIRTUALIZAÇÃO
+Entender o que é a virtualização em TI, os conceitos do seu funcionamento é fundamental para aprofundarmos o entendimento de como o mercado da tecnologia funciona hoje.  A virtualização é a base para outros conceitos aplicados, como micro serviços, nuvem, aplicações desacpladas, etc.  
 # Pergunta 1  
 1 - O que é virtualização?  
 Resposta: Em computação, virtualização é o ato de criar uma versão virtual de algo, incluindo a simulação de uma plataforma de hardware, sistema operacional, dispositivo de armazenamento ou recursos de rede.  

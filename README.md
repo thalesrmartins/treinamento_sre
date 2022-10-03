@@ -16,6 +16,6 @@
 1 - O que é virtualização?  
 Resposta: Em computação, virtualização é o ato de criar uma versão virtual de algo, incluindo a simulação de uma plataforma de hardware, sistema operacional, dispositivo de armazenamento ou recursos de rede.  
 # Pergunta 2  
-2 - Quais são ferramentas mais conhecidas de virtualização?  
+2 - Quais são ferramentas mais conhecidas e utilizadas de virtualização?  
 # Pergunta 3  
-3 - Dessas ferramentas, resuma brevemente o que entendeu sobre oo funcionamento elas, pode ser técnico e mergulhar mais fundo na resposta. A ideia dessa questão é fazer com que você visite os sites delas, suas documentações, veja alguns vídeos, etc. 
+3 - Dessas ferramentas, resuma brevemente o que entendeu sobre o funcionamento elas, pode ser técnico e mergulhar mais fundo na resposta. A ideia dessa questão é fazer com que você visite os sites delas, suas documentações, veja alguns vídeos, etc. 
